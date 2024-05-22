@@ -116,3 +116,23 @@ main {
   height: 100%;
   padding: 10px;
 }
+
+.fruit_violet {
+  background: #8b00ff;
+}
+
+.fruit_green {
+  background: #84cd1b;
+}
+
+.fruit_carmazin {
+  background: #dc143c;
+}
+
+.fruit_yellow {
+  background: #ffd800;
+}
+
+.fruit_lightbrown {
+  background: #cd853f;
+}
